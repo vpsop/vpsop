@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 #### I'm Varun Pratap
-A student of B.Tech 1st year at Invertis University Bareilly.
+I am student of B.Tech 1st year at Invertis University Bareilly.
 
-Flutter | C++ | Competitive Programming
 
 <!--
 **VpsOP/vpsop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
