@@ -14,7 +14,7 @@
 ### Hi there 👋
 
 #### I'm Varun Pratap
-I am student of B.Tech 1st year at Invertis University Bareilly.
+I am student of B.Tech 2nd year at Invertis University Bareilly.
 
 
 <!--
